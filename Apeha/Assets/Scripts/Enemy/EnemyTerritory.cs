@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/*
 public class EnemyTerritory : MonoBehaviour
 {
     public SphereCollider territory;
@@ -51,3 +51,4 @@ public class EnemyTerritory : MonoBehaviour
         }
     }
 }
+*/

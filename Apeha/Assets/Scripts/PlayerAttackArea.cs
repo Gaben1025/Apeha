@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerAttackArea : MonoBehaviour
 {
     public SphereCollider attackArea;
-    int attackDamage;
+    private int attackDamage;
     public void SetDamage(int damage)
     {
         attackDamage = damage;
